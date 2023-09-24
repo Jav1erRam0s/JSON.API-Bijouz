@@ -5,7 +5,7 @@
     "color": ["varios"],
     "stock": 1,
     "price": 2.68,
-    "photo": ["https://i.ibb.co/MRFRrtF/anillo-1.jpg"]
+    "photo": ["https://i.ibb.co/1rLVNTD/anillo-1.jpg"]
   },
   {
     "code": "1001",
@@ -61,7 +61,7 @@
     "color": ["varios"],
     "stock": 1,
     "price": 3.41,
-    "photo": ["https://i.ibb.co/B4TYn6g/pulsera-10.jpg"]
+    "photo": ["https://i.ibb.co/ZVYXz80/pulsera-10.jpg"]
   },
   {
     "code": "1008",
@@ -279,9 +279,71 @@
   {
     "code": "1032",
     "category": "aritos",
-    "color": ["rojo", "plateado"],
+    "color": ["azul", "rojo", "plateado"],
     "stock": 1,
     "price": 3.23,
-    "photo": ["https://i.ibb.co/XbKPB76/aritos-dragon-ball.webp"]
+    "photo": [
+      "https://i.ibb.co/WttcXnf/aritos-dragon-ball-1.jpg",
+      "https://i.ibb.co/nPfnHLQ/aritos-dragon-ball-2.webp"
+    ]
+  },
+  {
+    "code": "1033",
+    "category": "anillos",
+    "color": ["negro", "plateado"],
+    "stock": 1,
+    "price": 2.66,
+    "photo": ["https://i.ibb.co/g9zpkxg/anillo-8.webp"]
+  },
+  {
+    "code": "1034",
+    "category": "anillos",
+    "color": ["varios"],
+    "stock": 1,
+    "price": 1.9,
+    "photo": ["https://i.ibb.co/QpRpqJH/anillo-9.jpg"]
+  },
+  {
+    "code": "1035",
+    "category": "anillos",
+    "color": ["varios", "dorado"],
+    "stock": 1,
+    "price": 3.1,
+    "photo": [
+      "https://i.ibb.co/928G0bf/anillo-mariposa-1.jpg",
+      "https://i.ibb.co/2MR6fNS/anillo-mariposa-2.jpg"
+    ]
+  },
+  {
+    "code": "1036",
+    "category": "anillos",
+    "color": ["varios", "plateado"],
+    "stock": 1,
+    "price": 2.82,
+    "photo": ["https://i.ibb.co/jwcwhyY/anillo-7.jpg"]
+  },
+  {
+    "code": "1037",
+    "category": "anillos",
+    "color": ["varios", "dorado"],
+    "stock": 1,
+    "price": 2.58,
+    "photo": ["https://i.ibb.co/71K5bz0/anillo-flor.webp"]
+  },
+  {
+    "code": "1038",
+    "category": "anillos",
+    "color": ["varios", "dorado"],
+    "stock": 1,
+    "price": 2.36,
+    "photo": ["https://i.ibb.co/xJcnK3N/anillo-10.jpg"]
+  },
+  {
+    "code": "1039",
+    "category": "collares",
+    "color": ["azul", "plateado"],
+    "stock": 1,
+    "price": 3.33,
+    "photo": ["https://i.ibb.co/5YQY3Y1/collar-titanic.jpg"]
   }
 ]
