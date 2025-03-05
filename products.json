@@ -1,9 +1,33 @@
 [
   {
+    "code": "2000",
+    "category": "pulseras",
+    "color": ["negro"],
+    "stock": 1,
+    "price": 6.56,
+    "photo": ["https://i.ibb.co/4ZR1kRLv/pulsera-luz-1.jpg"]
+  },
+  {
+    "code": "2002",
+    "category": "pulseras",
+    "color": ["amarillo"],
+    "stock": 1,
+    "price": 5.74,
+    "photo": ["https://i.ibb.co/gMLRz9Tw/pulsera-luz-2.jpg"]
+  },
+  {
+    "code": "0202",
+    "category": "pulseras",
+    "color": ["blanco"],
+    "stock": 1,
+    "price": 5.74,
+    "photo": ["https://i.ibb.co/jvdbfXpB/pulsera-luz-3.jpg"]
+  },
+  {
     "code": "1000",
     "category": "anillos",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.68,
     "photo": ["https://i.ibb.co/1rLVNTD/anillo-1.jpg"]
   },
@@ -11,7 +35,7 @@
     "code": "1001",
     "category": "tobilleras",
     "color": ["negro", "plateado"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.48,
     "photo": ["https://i.ibb.co/JRvKyGn/tobillera-5.jpg"]
   },
@@ -19,7 +43,7 @@
     "code": "1002",
     "category": "tobilleras",
     "color": ["negro", "plateado"],
-    "stock": 1,
+    "stock": 0,
     "price": 3.32,
     "photo": ["https://i.ibb.co/g7PxMTd/tobillera-4.jpg"]
   },
@@ -27,7 +51,7 @@
     "code": "1003",
     "category": "tobilleras",
     "color": ["negro", "azul"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.45,
     "photo": ["https://i.ibb.co/tKnJKZP/tobillera-3.jpg"]
   },
@@ -35,7 +59,7 @@
     "code": "1004",
     "category": "tobilleras",
     "color": ["azul", "plateado"],
-    "stock": 1,
+    "stock": 0,
     "price": 3.33,
     "photo": ["https://i.ibb.co/G7rX2Hs/tobillera-2.jpg"]
   },
@@ -43,7 +67,7 @@
     "code": "1005",
     "category": "tobilleras",
     "color": ["negro", "dorado"],
-    "stock": 1,
+    "stock": 0,
     "price": 3.24,
     "photo": ["https://i.ibb.co/cw73560/tobillera-1.png"]
   },
@@ -51,7 +75,7 @@
     "code": "1006",
     "category": "pulseras",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.32,
     "photo": ["https://i.ibb.co/ckJJBv2/pulsera-11.png"]
   },
@@ -59,7 +83,7 @@
     "code": "1007",
     "category": "pulseras",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 3.41,
     "photo": ["https://i.ibb.co/ZVYXz80/pulsera-10.jpg"]
   },
@@ -67,7 +91,7 @@
     "code": "1008",
     "category": "pulseras",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.65,
     "photo": ["https://i.ibb.co/Rjc81M0/pulsera-9.jpg"]
   },
@@ -75,7 +99,7 @@
     "code": "1009",
     "category": "pulseras",
     "color": ["negro", "amarillo"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.43,
     "photo": ["https://i.ibb.co/Y3JSvGq/pulsera-8.webp"]
   },
@@ -83,7 +107,7 @@
     "code": "1010",
     "category": "pulseras",
     "color": ["negro", "fucsia"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.87,
     "photo": ["https://i.ibb.co/hcSjrGP/pulsera-7.jpg"]
   },
@@ -91,7 +115,7 @@
     "code": "1011",
     "category": "pulseras",
     "color": ["blanco", "negro", "marron"],
-    "stock": 1,
+    "stock": 0,
     "price": 1.87,
     "photo": ["https://i.ibb.co/CJW9jcg/pulsera-3.jpg"]
   },
@@ -99,7 +123,7 @@
     "code": "1012",
     "category": "pulseras",
     "color": ["blanco", "negro", "plateado"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.52,
     "photo": ["https://i.ibb.co/8KwnWLx/pulsera-2.webp"]
   },
@@ -107,7 +131,7 @@
     "code": "1013",
     "category": "aritos",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.64,
     "photo": ["https://i.ibb.co/4tHRtTy/aritos-2.webp"]
   },
@@ -115,7 +139,7 @@
     "code": "1014",
     "category": "pulseras",
     "color": ["negro", "azul"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.78,
     "photo": ["https://i.ibb.co/JRJHPR3/pulsera-5.jpg"]
   },
@@ -123,7 +147,7 @@
     "code": "1015",
     "category": "pulseras",
     "color": ["marron"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.96,
     "photo": ["https://i.ibb.co/xjqrjM6/pulsera-4.webp"]
   },
@@ -143,7 +167,7 @@
     "code": "1017",
     "category": "pulseras",
     "color": ["blanco", "negro"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.52,
     "photo": [
       "https://i.ibb.co/0V0nqNH/pulsera-1-1.jpg",
@@ -167,7 +191,7 @@
     "code": "1019",
     "category": "collares",
     "color": ["negro"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.84,
     "photo": [
       "https://i.ibb.co/6wpt3jn/collar-5-1.webp",
@@ -178,7 +202,7 @@
     "code": "1020",
     "category": "collares",
     "color": ["azul", "plateado"],
-    "stock": 1,
+    "stock": 0,
     "price": 1.47,
     "photo": [
       "https://i.ibb.co/w6YKN3s/collar-3-1.webp",
@@ -200,7 +224,7 @@
     "code": "1022",
     "category": "pulseras",
     "color": ["negro", "marron"],
-    "stock": 1,
+    "stock": 0,
     "price": 3.24,
     "photo": ["https://i.ibb.co/QQxs9fh/pulsera-6.jpg"]
   },
@@ -208,7 +232,7 @@
     "code": "1023",
     "category": "collares",
     "color": ["blanco", "negro"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.78,
     "photo": ["https://i.ibb.co/Zc7Dn7R/collar-8.jpg"]
   },
@@ -216,7 +240,7 @@
     "code": "1024",
     "category": "collares",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.21,
     "photo": ["https://i.ibb.co/4mdMRvF/collar-7.jpg"]
   },
@@ -224,7 +248,7 @@
     "code": "1025",
     "category": "collares",
     "color": ["plateado", "dorado", "negro"],
-    "stock": 1,
+    "stock": 0,
     "price": 1.22,
     "photo": ["https://i.ibb.co/z2rPpzS/collar-6.webp"]
   },
@@ -232,7 +256,7 @@
     "code": "1026",
     "category": "collares",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 1.56,
     "photo": ["https://i.ibb.co/jVVKXvK/collar-2.jpg"]
   },
@@ -256,7 +280,7 @@
     "code": "1029",
     "category": "anillos",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 1.67,
     "photo": ["https://i.ibb.co/8zTTnpZ/anillo-4.jpg"]
   },
@@ -272,7 +296,7 @@
     "code": "1031",
     "category": "anillos",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.9,
     "photo": ["https://i.ibb.co/Scn3LSv/anillo-2.jpg"]
   },
@@ -280,7 +304,7 @@
     "code": "1032",
     "category": "aritos",
     "color": ["azul", "rojo", "plateado"],
-    "stock": 1,
+    "stock": 0,
     "price": 3.23,
     "photo": [
       "https://i.ibb.co/WttcXnf/aritos-dragon-ball-1.jpg",
@@ -291,7 +315,7 @@
     "code": "1033",
     "category": "anillos",
     "color": ["negro", "plateado"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.66,
     "photo": ["https://i.ibb.co/g9zpkxg/anillo-8.webp"]
   },
@@ -299,7 +323,7 @@
     "code": "1034",
     "category": "anillos",
     "color": ["varios"],
-    "stock": 1,
+    "stock": 0,
     "price": 1.9,
     "photo": ["https://i.ibb.co/QpRpqJH/anillo-9.jpg"]
   },
@@ -307,7 +331,7 @@
     "code": "1035",
     "category": "anillos",
     "color": ["varios", "dorado"],
-    "stock": 1,
+    "stock": 0,
     "price": 3.1,
     "photo": [
       "https://i.ibb.co/928G0bf/anillo-mariposa-1.jpg",
@@ -318,7 +342,7 @@
     "code": "1036",
     "category": "anillos",
     "color": ["varios", "plateado"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.82,
     "photo": ["https://i.ibb.co/jwcwhyY/anillo-7.jpg"]
   },
@@ -326,7 +350,7 @@
     "code": "1037",
     "category": "anillos",
     "color": ["varios", "dorado"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.58,
     "photo": ["https://i.ibb.co/71K5bz0/anillo-flor.webp"]
   },
@@ -334,7 +358,7 @@
     "code": "1038",
     "category": "anillos",
     "color": ["varios", "dorado"],
-    "stock": 1,
+    "stock": 0,
     "price": 2.36,
     "photo": ["https://i.ibb.co/xJcnK3N/anillo-10.jpg"]
   },
@@ -342,7 +366,7 @@
     "code": "1039",
     "category": "collares",
     "color": ["azul", "plateado"],
-    "stock": 1,
+    "stock": 0,
     "price": 3.33,
     "photo": ["https://i.ibb.co/5YQY3Y1/collar-titanic.jpg"]
   }
